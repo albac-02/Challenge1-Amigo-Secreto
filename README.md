@@ -51,3 +51,7 @@ git clone https://github.com/albac-02/Challenge1-Amigo-Secreto.git
 
 # Abrir en navegador
 abrir index.html
+```
+
+
+
