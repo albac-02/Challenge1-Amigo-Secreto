@@ -60,11 +60,13 @@ abrir index.html
 4. Click en "Sortear amigo" para obtener resultado aleatorio
 
 ## 📁 Estructura del Código
+```bash
 Challenge1-Amigo-Secreto/
 ├── index.html          # Página principal
 ├── style.css           # Estilos (Flexbox, variables CSS)
 ├── app.js              # Lógica principal
 └── assets/             # Imágenes e íconos
+```
 
 ## 🌐 Deployment
 Desplegado en GitHub Pages como parte de los requisitos del challenge:
