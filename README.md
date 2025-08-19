@@ -69,9 +69,10 @@ Challenge1-Amigo-Secreto/
 ```
 
 ## 🌐 Deployment
-Desplegado en GitHub Pages como parte de los requisitos del challenge:
+Desplegado en GitHub Pages:
 * URL Production: https://albac-02.github.io/Challenge1-Amigo-Secreto/
 * Branch: `main`
+¿Por qué se hizo el Deploy? Para que mi círculo pequeño de amigos pudiera darme críticas constructivas referentes a mi proyecto.
 
 ## 📚 Aprendizajes Clave
 
