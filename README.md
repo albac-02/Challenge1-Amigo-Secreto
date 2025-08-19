@@ -53,5 +53,37 @@ git clone https://github.com/albac-02/Challenge1-Amigo-Secreto.git
 abrir index.html
 ```
 
+## 🎮 Cómo Usar
+1. Ingresar nombres en el campo de texto
+2. Click en "Añadir" para agregar a la lista
+3. Verificar que todos los nombres estén incluidos
+4. Click en "Sortear amigo" para obtener resultado aleatorio
 
+## 📁 Estructura del Código
+Challenge1-Amigo-Secreto/
+├── index.html          # Página principal
+├── style.css           # Estilos (Flexbox, variables CSS)
+├── app.js              # Lógica principal
+└── assets/             # Imágenes e íconos
 
+## 🌐 Deployment
+Desplegado en GitHub Pages como parte de los requisitos del challenge:
+* URL Production: https://albac-02.github.io/Challenge1-Amigo-Secreto/
+* Branch: `main`
+
+## 📚 Aprendizajes Clave
+
+- **DOM Manipulation**: `getElementById`, `createElement`, `appendChild`
+- **Array Methods**: `.push()`, `.length`, acceso por índice
+- **Math Functions**: `Math.random()`, `Math.floor()`
+- **Event Handling**: `onclick`, validación de inputs
+- **CSS Basics**: Variables CSS, Flexbox, responsive design
+
+## 👨‍💻 Autor
+
+**Albac-02** - Estudiante de Alura Latam  
+[GitHub Profile](https://github.com/albac-02)
+
+## 🙌 Agradecimientos
+
+A **Alura Latam** y los instructores por el desafío y la oportunidad de aplicar los conocimientos en un proyecto real.
